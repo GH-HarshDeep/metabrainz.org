@@ -154,7 +154,4 @@ testing environments for each payment service can be found in their documentatio
 * PayPal: https://developer.paypal.com/webapps/developer/docs/
 * Stripe: https://stripe.com/docs/testing
 
-Please note that for [IPNs](https://en.wikipedia.org/wiki/Instant_payment_notification)
-to work, the application MUST be publicly available. If you are doing development
-on your local machine it is likely that your callback endpoints will not be
-reachable for payment processors.
+
